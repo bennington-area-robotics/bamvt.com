@@ -5,33 +5,28 @@ title: Home
 
 ## What is the BAM makerspace?
 
-The Bennington Area Makers (BAM) is an accessible, open, and safe space for the community to explore science, technology, engineering, arts and mathematics (STEAM) skills. We provide opportunities for connection to the entire community via intellectually and physically creative activities.
-
-<div class="highlight">
-In our first three months (October–December 2019), we engaged with <strong>263 participants in 33 activities</strong>.
-</div>
+An accessible, open, and safe space for the community to explore science, technology, engineering, arts and mathematics (STEAM) skills and support entrepreneurship by making things and making connections
 
 <div class="card-grid">
   <div class="card">
-    <h3>Activities</h3>
-    <p>Explore our programs in robotics, electronics, 3D printing, woodworking, and more.</p>
-    <a href="/activities">Learn more &rarr;</a>
+    <div class="card-body">
+      <p>In the coming year, we have plans for events focused on Lego Robotics, Linux Computer Building, Raspberry Pi programming, Bike Repair, Seed Starting, and other topics. In our first three months (October-December 2019), we engaged with 263 participants in 33 activities.</p>
+      <a href="/activities" class="btn">See What We Have Been Doing</a>
+    </div>
   </div>
   <div class="card">
-    <h3>Get Involved</h3>
-    <p>Volunteer your time, donate supplies, or share your expertise with the community.</p>
-    <a href="/get-involved">Join us &rarr;</a>
+    <div class="card-body">
+      <p>Our events are supported and inspired by affinity groups, facilitated by volunteers and enabled by donations presently, but we recognize that sustained revenue and paid instructors will eventually be needed to sustain the programs.</p>
+      <a href="/get-involved" class="btn">Learn How You Can Get Involved</a>
+    </div>
   </div>
   <div class="card">
-    <h3>Robotics</h3>
-    <p>Our FIRST Tech Challenge teams compete at the state and national level.</p>
-    <a href="https://robotics.bamvt.com" target="_blank">Visit robotics site &rarr;</a>
+    <div class="card-body">
+      <p>Our key guiding principle is to enable transdisciplinary collaboration and intergenerational exchange to feed curiosity, support discovery, and encourage entrepreneurial development in the Bennington area.</p>
+      <a href="/about" class="btn">Read About Our Mission</a>
+    </div>
   </div>
 </div>
-
-## Our Mission
-
-BAM fosters transdisciplinary collaboration — bringing together people of all ages and backgrounds to learn, create, and build together. We believe that hands-on making strengthens our community and opens doors to new skills and opportunities.
 
 ## Connect With Us
 
