@@ -201,7 +201,7 @@
       flex: 1;
     }
     .card .btn {
-      display: inline-block;
+      display: block;
       background: var(--dark);
       color: var(--white);
       border: 2px solid var(--white);
@@ -213,7 +213,7 @@
       text-transform: uppercase;
       text-align: center;
       transition: all 0.2s;
-      margin-top: 0.75rem;
+      margin-top: auto;
     }
     .card .btn:hover {
       background: var(--gold);
@@ -306,7 +306,7 @@
 <body>
   <header>
     <a href="{{ '/' | relative_url }}">
-      <img src="https://www.bamvt.com/wp-content/uploads/2019/10/cropped-bam_logo-1.png" alt="BAM Logo" class="logo">
+      <img src="{{ '/assets/images/bam_logo.png' | relative_url }}" alt="BAM Logo" class="logo">
     </a>
     <h1><a href="{{ '/' | relative_url }}">Bennington Area Makers (BAM)</a></h1>
     <nav>
