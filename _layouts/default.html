@@ -310,11 +310,13 @@
     </a>
     <h1><a href="{{ '/' | relative_url }}">Bennington Area Makers (BAM)</a></h1>
     <nav>
-      <a href="{{ '/about' | relative_url }}" {% if page.url contains 'about' %}class="active"{% endif %}>About</a>
-      <a href="{{ '/activities' | relative_url }}" {% if page.url contains 'activities' %}class="active"{% endif %}>Calendar</a>
-      <a href="{{ '/contact' | relative_url }}" {% if page.url contains 'contact' %}class="active"{% endif %}>Contact</a>
-      <a href="{{ '/code-of-conduct' | relative_url }}" {% if page.url contains 'code-of-conduct' %}class="active"{% endif %}>Code of Conduct</a>
-      <a href="{{ '/get-involved' | relative_url }}" {% if page.url contains 'get-involved' %}class="active"{% endif %}>Support Us</a>
+      {% assign nav_items = "about|About,activities|Activities,contact|Contact,code-of-conduct|Code of Conduct,get-involved|Support Us" | split: "," %}
+      {% for item in nav_items %}
+        {% assign parts = item | split: "|" %}
+        {% assign slug = parts[0] %}
+        {% assign label = parts[1] %}
+        <a href="{{ '/' | append: slug | relative_url }}" {% if page.url contains slug %}class="active"{% endif %}>{{ label }}</a>
+      {% endfor %}
     </nav>
   </header>
 
