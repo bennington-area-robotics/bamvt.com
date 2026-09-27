@@ -3,7 +3,7 @@ layout: default
 title: Code of Conduct
 ---
 
-## Code of Conduct
+# Code of Conduct
 
 As a member of the Bennington Area Makers makerspace, I pledge to:
 

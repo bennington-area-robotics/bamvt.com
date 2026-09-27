@@ -3,7 +3,7 @@ layout: default
 title: Contact
 ---
 
-## Contact Us
+# Contact Us
 
 - **Email:** [info@bamvt.com](mailto:info@bamvt.com)
 - **Mail:** PO Box 4332, Bennington, VT 05201

@@ -3,7 +3,7 @@ layout: default
 title: Activities
 ---
 
-## Activities
+# Activities
 
 BAM operates as a makerspace providing spaces, equipment, and supplies to enable a variety of activities using an agile framework responsive to community needs.
 
