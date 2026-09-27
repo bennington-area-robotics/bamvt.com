@@ -46,4 +46,4 @@ As of August 10, 2026, BAM’s board of directors includes:
 
 ## Founding Organizing Committee
 
-BAM was formalized in 2019 through the efforts of a small organizing committee that included James Salerno, Jeannie Jenkins, Ray Coulter, Kimberly Griffin, and Chris Callahan. Our activities are enabled by the organizational support of the [Bennington County Regional Commission](http://www.bcrcvt.org/)
+BAM was formalized in 2019 through the efforts of a small organizing committee that included James Salerno, Jeannie Jenkins, Ray Coulter, Kimberly Griffin, and Chris Callahan. Their activities were enabled by the organizational support of the [Bennington County Regional Commission](http://www.bcrcvt.org/)
