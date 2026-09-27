@@ -33,6 +33,17 @@ The value of an area makerspace to the community has been demonstrated through s
 
 BAM coordinates and collaborates with several other local organizations including the Town of Bennington, BCRC/IC, CCV, SVSU, The Lightning Jar and StartUp 802. Our work has been identified as a key component of entrepreneurial development in the Bennington area.
 
-## Organizing Committee
+## Board of Directors
 
-BAM was formalized in 2019 through the efforts of a small organizing committee that includes James Salerno, Jeannie Jenkins, Ray Coulter, Kimberly Griffin, and Chris Callahan. Our activities are enabled by the organizational support of the [Bennington County Regional Commission](http://www.bcrcvt.org/)
+As of August 10, 2026, BAM’s board of directors includes:
+
+- Chris Callahan
+- Peter Radocchia
+- Fanglai Wang
+- Patty Rutins
+- David Lindenberg
+- Ben Schwartz
+
+## Founding Organizing Committee
+
+BAM was formalized in 2019 through the efforts of a small organizing committee that included James Salerno, Jeannie Jenkins, Ray Coulter, Kimberly Griffin, and Chris Callahan. Their activities were enabled by the organizational support of the [Bennington County Regional Commission](http://www.bcrcvt.org/)
