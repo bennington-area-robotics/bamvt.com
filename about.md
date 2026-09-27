@@ -37,13 +37,13 @@ BAM coordinates and collaborates with several other local organizations includin
 
 As of August 10, 2026, BAM’s board of directors includes:
 
+- Ben Schwartz
 - Chris Callahan
-- Peter Radocchia
+- David Lindenberg
 - Fanglai Wang
 - Patty Rutins
-- David Lindenberg
-- Ben Schwartz
+- Peter Radocchia
 
 ## Founding Organizing Committee
 
-BAM was formalized in 2019 through the efforts of a small organizing committee that included James Salerno, Jeannie Jenkins, Ray Coulter, Kimberly Griffin, and Chris Callahan. Their activities were enabled by the organizational support of the [Bennington County Regional Commission](http://www.bcrcvt.org/)
+BAM was formalized in 2019 through the efforts of a small organizing committee that included Chris Callahan, James Salerno, Jeannie Jenkins, Kimberly Griffin, and Ray Coulter. Their activities were enabled by the organizational support of the [Bennington County Regional Commission](http://www.bcrcvt.org/)
