@@ -11,6 +11,8 @@ Bennington Area Makers (BAM) brings people together through creative, hands-on l
 
 ## Build with Bennington Area Robotics
 
+<img src="https://assets.bamvt.com/robotics/state-championship-2026/2026_FTC-192.jpg?v=1" alt="Bennington Area Robotics students operating their robots at the Vermont FIRST Tech Challenge state championship" width="1600" height="1067">
+
 Middle and high school students design, build, and program robots for FIRST Tech Challenge with support from community mentors. Our teams are **18650 Cookie Clickers** and **32473 Bennington Bolts and Biscuits**.
 
 [Explore our robotics program](/activities/firstrobotics/){: .btn-gold}
