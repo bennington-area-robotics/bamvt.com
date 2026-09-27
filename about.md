@@ -3,6 +3,8 @@ layout: default
 title: About
 ---
 
+# About BAM
+
 ## Vision
 
 BAM's vision is to be an accessible, open, and safe space for the community to explore science, technology, engineering, arts and mathematics (STEAM) skills and support entrepreneurship by making things and making connections.

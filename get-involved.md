@@ -3,7 +3,7 @@ layout: default
 title: Get Involved
 ---
 
-## Get Involved
+# Get Involved
 
 We would love to hear your ideas for programs and we welcome donations of time, expertise, supplies, and tools. We also accept monetary contributions of any amount.
 
