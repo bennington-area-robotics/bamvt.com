@@ -1,0 +1,21 @@
+---
+layout: "default"
+title: "Calendar"
+permalink: "/calendar/"
+wordpress_id: 40
+nav_section: "/events/"
+---
+
+# Calendar
+
+For the current robotics schedule, visit [Bennington Area Robotics](https://robotics.bamvt.com/).
+
+## Community announcements
+
+View our [upcoming events in our Facebook Group](https://www.facebook.com/groups/MakeBennington/events/).
+
+## Past workshops and events
+
+[Browse the event archive](/events/) for BAM workshops and community events from 2020–2022.
+
+<figure class="page-image"><a href="/wp-content/uploads/2019/12/kelly-sikkema-Lob1IJzGNAE-unsplash-1.jpg"><img src="/wp-content/uploads/2019/12/kelly-sikkema-Lob1IJzGNAE-unsplash-1.jpg" alt="A ruler and drawing compass on paper" width="1500" height="400" loading="lazy"></a></figure>

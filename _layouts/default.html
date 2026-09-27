@@ -124,7 +124,7 @@
     a:hover { color: var(--sidebar); }
     ul, ol { padding-left: 1.5rem; }
     li { margin-bottom: 0.5rem; }
-    img { max-width: 100%; }
+    img { max-width: 100%; height: auto; }
     .highlight, blockquote {
       background: var(--highlight);
       border-left: 4px solid var(--yellow);
@@ -133,7 +133,7 @@
       border-radius: 0 4px 4px 0;
     }
     .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 1.25rem; margin: 2rem 0; }
-    .card { background: white; border: 1px solid var(--border); border-top: 4px solid var(--yellow); border-radius: 4px; display: flex; }
+    .card { background: white; border: 1px solid var(--border); border-top: 4px solid var(--yellow); border-radius: 4px; display: flex; flex-direction: column; }
     .card-body { padding: 1.25rem; display: flex; flex-direction: column; flex: 1; min-width: 0; }
     .card h2 { border: 0; margin: 0 0 0.5rem; padding: 0; font-size: 1.25rem; }
     .card p { margin: 0 0 1.25rem; font-size: 0.95rem; }
@@ -183,7 +183,7 @@
       .site-content > .container, .site-footer > .container { padding: 2.75rem clamp(2rem, 4vw, 4rem); }
     }
     /* Short windows use page scrolling so every navigation link stays reachable. */
-    @media (min-width: 64rem) and (min-height: 32rem) {
+    @media (min-width: 64rem) and (min-height: 36rem) {
       .site-header .site-nav { position: sticky; top: 1rem; }
     }
     @media (max-width: 360px) {
@@ -192,7 +192,36 @@
       .site-logo { width: 2.75rem; }
       .container { padding: 1.5rem 1rem; }
     }
+    .card-image { width: 100%; height: auto; aspect-ratio: 4 / 3; object-fit: cover; }
+    .page-image { margin: 1.5rem 0; }
+    .page-image img { display: block; width: 100%; max-height: 22rem; object-fit: cover; }
+    .attachment-image { margin: 1.5rem 0; }
+    .attachment-image img { display: block; max-height: 70vh; width: auto; }
+    .photo-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 16rem), 1fr)); gap: 1.5rem; }
+    .photo-grid figure { margin: 0; min-width: 0; }
+    .photo-grid img { display: block; width: 100%; aspect-ratio: 3 / 2; object-fit: cover; }
+    figcaption { font-size: 0.875rem; color: var(--muted); margin-top: 0.5rem; }
+    .video-block { margin: 1.5rem 0; }
+    .video-frame { position: relative; aspect-ratio: 16 / 9; }
+    .video-frame iframe { position: absolute; width: 100%; height: 100%; border: 0; }
+    .article-body { max-width: 75ch; }
+    .article-body img { display: block; margin: 1rem 0; }
+    .archive-list { list-style: none; padding: 0; }
+    .archive-list li { padding: 1rem 0; border-bottom: 1px solid var(--border); }
+    .archive-list time, .event-notice { display: block; color: var(--muted); font-size: 0.875rem; }
+    .archive-list a { font-size: 1.1rem; font-weight: 600; }
+    .event-notice { margin-top: 0.25rem; }
+    .eyebrow, .post-date { font-size: 0.9rem; color: var(--muted); }
+    .event-details { display: grid; grid-template-columns: auto minmax(0, 1fr); gap: 0.75rem 1.5rem; padding: 1rem 0; border-block: 1px solid var(--border); }
+    .event-details dt { font-weight: 700; }
+    .event-details dd { margin: 0; overflow-wrap: anywhere; }
+    .archive-back { margin-top: 2.5rem; }
+    @media (max-width: 30rem) {
+      .event-details { grid-template-columns: 1fr; gap: 0.25rem; }
+      .event-details dd { margin-bottom: 0.75rem; }
+    }
   </style>
+  <script src="{{ "/assets/js/legacy-links.js" | relative_url }}" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
@@ -209,18 +238,16 @@
         <p class="site-description">{{ site.description | escape }}</p>
         <nav class="site-nav" id="site-nav" aria-label="Main navigation">
           {% capture nav_links %}
-          {% assign nav_items = "Home:/,About:/about,Activities:/activities,Contact:/contact,Code of Conduct:/code-of-conduct,Support Us:/get-involved" | split: "," %}
+          {% assign nav_items = "Home:/,Robotics:/activities/firstrobotics/,About:/about/,Activities:/activities/,Past Events:/events/,Blog Archive:/blog/,Get Involved:/get-involved/,Contact:/contact/,Code of Conduct:/code-of-conduct/,Donate:/donate/" | split: "," %}
           {% for item in nav_items %}
             {% assign parts = item | split: ":" %}
             {% assign label = parts[0] %}
             {% assign path = parts[1] %}
             {% assign is_active = false %}
-            {% if path == '/' %}
-              {% if page.url == '/' %}{% assign is_active = true %}{% endif %}
-            {% elsif page.url contains path %}
+            {% if page.url == path or page.nav_section == path %}
               {% assign is_active = true %}
             {% endif %}
-            <a href="{{ path | relative_url }}"{% if is_active %} class="active" aria-current="page"{% endif %}>{{ label }}</a>
+            <a href="{{ path | relative_url }}"{% if is_active %} class="active" aria-current="{% if page.url == path %}page{% else %}location{% endif %}"{% endif %}>{{ label }}</a>
           {% endfor %}
           {% endcapture %}
           {{ nav_links }}
@@ -240,7 +267,7 @@
               <p>PO Box 4332, Bennington, VT 05201</p>
               <p><a href="mailto:info@bamvt.com">info@bamvt.com</a></p>
             </div>
-            <a href="{{ '/get-involved' | relative_url }}" class="btn-gold">Donate</a>
+            <a href="{{ '/donate/' | relative_url }}" class="btn-gold">Donate</a>
           </div>
           <p class="footer-copyright">&copy; {{ 'now' | date: "%Y" }} Bennington Area Makers</p>
         </div>

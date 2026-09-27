@@ -1,28 +1,26 @@
 ---
-layout: default
-title: Get Involved
+layout: "default"
+title: "Get Involved"
+permalink: "/get-involved/"
+wordpress_id: 44
+nav_section: "/get-involved/"
+redirect_from: ["/how-you-can-help/", "/get-involved.html"]
 ---
 
 # Get Involved
 
-We would love to hear your ideas for programs and we welcome donations of time, expertise, supplies, and tools. We also accept monetary contributions of any amount.
+Support BAM’s active program, [Bennington Area Robotics](/activities/firstrobotics/), by volunteering or donating. [Read about ways to support the program](/donate/).
 
-## Ways to Help
+Contact [info@bamvt.com](mailto:info@bamvt.com) to get involved.
 
-- **Volunteer** — Share your skills and expertise with community members
-- **Donate supplies or tools** — Help equip our makerspace
-- **Contribute financially** — Every amount helps support our programs
-- **Propose a program** — Have an idea for a workshop or activity? Let us know!
+## Original makerspace notice
 
-## Support Us Financially
+The notice below describes earlier makerspace activities. Its weekly meeting details and email address are retained as historical information; contact us for current arrangements before visiting.
 
-[Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=HPQY5NA3Z59C2){:target="_blank"}
+<figure class="page-image"><a href="/wp-content/uploads/2020/01/DSC_0141.jpg"><img src="/wp-content/uploads/2020/01/DSC_0141.jpg" alt="A group gathered outdoors at night" width="1500" height="400" loading="lazy"></a></figure>
 
-The Bennington Area Makers, Inc. is a 501(c)(3) nonprofit organization (EIN 84-5124653). Donations are tax-deductible to the extent permitted by law.
+We would love to hear your ideas for programs and we welcome donations of time, expertise, supplies, and tools. We also welcome financial donations of any size.
 
-## Connect With Us
+Please send us an email at **info@bamvt.org.**
 
-Send us an email at [info@bamvt.com](mailto:info@bamvt.com) or join our [Facebook Group](https://www.facebook.com/groups/BenningtonAreaMakers/){:target="_blank"} to get involved.
-
-- **Email:** [info@bamvt.com](mailto:info@bamvt.com)
-- **Mail:** PO Box 4332, Bennington, VT 05201
+Or drop by one of our weekly community meetings on Thursdays at 6 PM at 239 Main St, Bennington, VT.

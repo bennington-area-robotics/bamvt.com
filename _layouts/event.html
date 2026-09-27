@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<p class="eyebrow"><a href="{{ '/events/' | relative_url }}">Event archive</a></p>
+<h1>{{ page.title | escape }}</h1>
+<div class="highlight"><strong>Historical event — {{ page.event_start | date: "%Y" }}.</strong> This original announcement is preserved for reference. Dates, registration links, and contact details below relate to that event.{% if page.event_notice %}<p><strong>{{ page.event_notice | escape }}</strong></p>{% endif %}</div>
+<dl class="event-details">
+  <dt>Scheduled for</dt><dd><time datetime="{{ page.event_start | date: '%Y-%m-%dT%H:%M:%S' }}">{{ page.event_start | date: "%B %-d, %Y, %-I:%M %p" }}</time>–{{ page.event_end | date: "%-I:%M %p" }} ({{ page.event_timezone | escape }})</dd>
+  {% if page.event_cost != '' %}<dt>Cost</dt><dd>{% if page.event_cost == '0' %}Free{% else %}{{ page.event_currency | escape }}{{ page.event_cost | escape }}{% endif %}</dd>{% endif %}
+  {% if page.venue_id %}{% assign venue = site.data.event_venues[page.venue_id] %}<dt>Venue</dt><dd><a href="{{ venue.url | relative_url }}">{{ venue.name | escape }}</a>{% if venue.address != '' %}<br>{{ venue.address | escape }}{% endif %}</dd>{% endif %}
+  {% if page.organizer_ids.size > 0 %}<dt>Organizers</dt><dd>{% for id in page.organizer_ids %}{% assign organizer = site.data.event_organizers[id] %}{% if organizer.url %}<a href="{{ organizer.url | relative_url }}">{{ organizer.name | escape }}</a>{% else %}{{ organizer.name | escape }}{% endif %}{% unless forloop.last %}<br>{% endunless %}{% endfor %}</dd>{% endif %}
+</dl>
+<div class="article-body">{{ content }}</div>
+<p class="archive-back"><a href="{{ '/events/' | relative_url }}">All historical events</a></p>

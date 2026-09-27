@@ -1,24 +1,36 @@
 ---
-layout: default
-title: Code of Conduct
+layout: "default"
+title: "Code of Conduct"
+permalink: "/code-of-conduct/"
+wordpress_id: 48
+nav_section: "/code-of-conduct/"
+redirect_from: ["/code-of-conduct.html"]
 ---
 
 # Code of Conduct
 
-As a member of the Bennington Area Makers makerspace, I pledge to:
+The original makerspace agreement is preserved below. For the active robotics program, see the [Bennington Area Robotics Code of Conduct](https://robotics.bamvt.com/code-of-conduct/).
 
-1. **Put my knowledge and skills to practical use** while exploring creative ideas through hands-on work.
+Bennington Area Makerspace (BAM)
 
-2. **Learn through hands-on experience**, in both success and failure, emphasizing growth from experimentation.
+Conduct Code Agreement
 
-3. **Engage with the community** by learning from others while committing to teach, help, collaborate with, include, mentor, respect, celebrate, encourage, and inspire fellow Makers.
+The Bennington Area Makerspace is a shared work space where the community can practice hands-on creation, fabrication, and most importantly, collaboration.
 
-4. **Follow all Makerspace safety policies and procedures** with NO exceptions.
+As an BAM Maker and future member of the maker community, I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, hereby pledge the following:
 
-5. **Create and maintain a safe atmosphere** for myself and all others present.
+1. I will put my knowledge and skills to practical use as I turn my ideas into physical creations and explore new ideas
 
-6. **Only use tools and equipment that I have been properly trained on** and given approval to use.
+2. I will learn through hands-on experience, in both success and failure
 
-7. **Respect that staff and authorized volunteers have final say** on what is permissible inside the Makerspace.
+3. I will learn from, teach, help, collaborate with, include, mentor, respect, celebrate, encourage, and inspire fellow Makers and Makerspace members
 
-8. **Understand that access to the Makerspace is a privilege** which can and will be revoked for policy violations.
+4. I will follow all Makerspace safety policies and procedures with NO exceptions
+
+5. I will create and maintain a safe atmosphere not only for myself but for other members at all times
+
+6. I will only use equipment that I have been properly trained on and given approval to use from the Makerspace staff and authorized volunteers
+
+7. I acknowledge that the Makerspace staff and authorize volunteers have final say on what is permissible inside the Makerspace
+
+8. I understand that access to the Makerspace is a privilege which can and will be revoked if I do not follow the policies and procedures of the space
