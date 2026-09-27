@@ -37,12 +37,12 @@ BAM coordinates and collaborates with several other local organizations includin
 
 As of August 10, 2026, BAM’s board of directors includes:
 
-- Christopher W. Callahan
+- Chris Callahan
 - Peter Radocchia
 - Fanglai Wang
 - Patty Rutins
 - David Lindenberg
-- Benjamin Schwartz
+- Ben Schwartz
 
 ## Founding Organizing Committee
 
