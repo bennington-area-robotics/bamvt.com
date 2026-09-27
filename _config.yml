@@ -1,5 +1,5 @@
 title: Bennington Area Makers
-description: An accessible, open, and safe space for the community to explore STEAM skills in Bennington, Vermont.
+description: Community making in Bennington, Vermont. Home of Bennington Area Robotics.
 url: https://www.bamvt.com
 
 # Build settings
@@ -12,3 +12,8 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+  - resources
+
+collections:
+  events:
+    output: true

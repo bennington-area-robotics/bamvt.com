@@ -1,0 +1,6 @@
+<ul class="archive-list">
+{% for id in include.ids %}
+  {% assign entry = site.data.legacy_content[id] %}
+  <li><time datetime="{{ entry.date | date: '%Y-%m-%d' }}">{{ entry.date | date: "%B %-d, %Y" }}</time><a href="{{ entry.url | relative_url }}">{{ entry.title | escape }}</a>{% if entry.notice != '' %}<span class="event-notice">{{ entry.notice | escape }}</span>{% endif %}</li>
+{% endfor %}
+</ul>

@@ -1,0 +1,695 @@
+{
+  "source_records": [
+    {
+      "id": "2",
+      "type": "page",
+      "original_url": "https://www.bamvt.com/about/",
+      "url": "/about/",
+      "content_url": "/about/"
+    },
+    {
+      "id": "5",
+      "type": "page",
+      "original_url": "https://www.bamvt.com/attribution/",
+      "url": "/attribution/",
+      "content_url": "/attribution/"
+    },
+    {
+      "id": "36",
+      "type": "page",
+      "original_url": "https://www.bamvt.com/activities/",
+      "url": "/activities/",
+      "content_url": "/activities/"
+    },
+    {
+      "id": "40",
+      "type": "page",
+      "original_url": "https://www.bamvt.com/calendar/",
+      "url": "/calendar/",
+      "content_url": "/calendar/"
+    },
+    {
+      "id": "44",
+      "type": "page",
+      "original_url": "https://www.bamvt.com/how-you-can-help/",
+      "url": "/get-involved/",
+      "content_url": "/get-involved/"
+    },
+    {
+      "id": "48",
+      "type": "page",
+      "original_url": "https://www.bamvt.com/code-of-conduct/",
+      "url": "/code-of-conduct/",
+      "content_url": "/code-of-conduct/"
+    },
+    {
+      "id": "56",
+      "type": "page",
+      "original_url": "https://www.bamvt.com/contact/",
+      "url": "/contact/",
+      "content_url": "/contact/"
+    },
+    {
+      "id": "68",
+      "type": "page",
+      "original_url": "https://www.bamvt.com/",
+      "url": "/",
+      "content_url": "/archive/original-home/"
+    },
+    {
+      "id": "72",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/sergey-zolkin-32yllwbi8q4-unsplash/",
+      "url": "/sergey-zolkin-32yllwbi8q4-unsplash/",
+      "content_url": "/sergey-zolkin-32yllwbi8q4-unsplash/"
+    },
+    {
+      "id": "73",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/kelly-sikkema-lob1ijzgnae-unsplash/",
+      "url": "/kelly-sikkema-lob1ijzgnae-unsplash/",
+      "content_url": "/kelly-sikkema-lob1ijzgnae-unsplash/"
+    },
+    {
+      "id": "75",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/m0851-lqdrw2o-gka-unsplash-2/",
+      "url": "/m0851-lqdrw2o-gka-unsplash-2/",
+      "content_url": "/m0851-lqdrw2o-gka-unsplash-2/"
+    },
+    {
+      "id": "76",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/cropped-sergey-zolkin-32yllwbi8q4-unsplash-scaled-1-jpg/",
+      "url": "/cropped-sergey-zolkin-32yllwbi8q4-unsplash-scaled-1-jpg/",
+      "content_url": "/cropped-sergey-zolkin-32yllwbi8q4-unsplash-scaled-1-jpg/"
+    },
+    {
+      "id": "78",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/cropped-sergey-zolkin-32yllwbi8q4-unsplash-scaled-2-jpg/",
+      "url": "/cropped-sergey-zolkin-32yllwbi8q4-unsplash-scaled-2-jpg/",
+      "content_url": "/cropped-sergey-zolkin-32yllwbi8q4-unsplash-scaled-2-jpg/"
+    },
+    {
+      "id": "85",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/cropped-kelly-sikkema-lob1ijzgnae-unsplash-scaled-1-jpg/",
+      "url": "/cropped-kelly-sikkema-lob1ijzgnae-unsplash-scaled-1-jpg/",
+      "content_url": "/cropped-kelly-sikkema-lob1ijzgnae-unsplash-scaled-1-jpg/"
+    },
+    {
+      "id": "87",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/cropped-m0851-lqdrw2o-gka-unsplash-1-scaled-1-jpg/",
+      "url": "/cropped-m0851-lqdrw2o-gka-unsplash-1-scaled-1-jpg/",
+      "content_url": "/cropped-m0851-lqdrw2o-gka-unsplash-1-scaled-1-jpg/"
+    },
+    {
+      "id": "88",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/home/25f8eb93-ae54-4f7f-b308-c04def49ae0f-1/",
+      "url": "/home/25f8eb93-ae54-4f7f-b308-c04def49ae0f-1/",
+      "content_url": "/home/25f8eb93-ae54-4f7f-b308-c04def49ae0f-1/"
+    },
+    {
+      "id": "89",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-png/",
+      "url": "/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-png/",
+      "content_url": "/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-png/"
+    },
+    {
+      "id": "90",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-1-png/",
+      "url": "/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-1-png/",
+      "content_url": "/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-1-png/"
+    },
+    {
+      "id": "91",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/cropped-m0851-lqdrw2o-gka-unsplash-1-scaled-2-jpg/",
+      "url": "/cropped-m0851-lqdrw2o-gka-unsplash-1-scaled-2-jpg/",
+      "content_url": "/cropped-m0851-lqdrw2o-gka-unsplash-1-scaled-2-jpg/"
+    },
+    {
+      "id": "96",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-2-png/",
+      "url": "/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-2-png/",
+      "content_url": "/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-2-png/"
+    },
+    {
+      "id": "97",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-3-png/",
+      "url": "/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-3-png/",
+      "content_url": "/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-3-png/"
+    },
+    {
+      "id": "132",
+      "type": "page",
+      "original_url": "https://www.bamvt.com/blog/",
+      "url": "/blog/",
+      "content_url": "/blog/"
+    },
+    {
+      "id": "139",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-4-png/",
+      "url": "/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-4-png/",
+      "content_url": "/cropped-25f8eb93-ae54-4f7f-b308-c04def49ae0f-1-4-png/"
+    },
+    {
+      "id": "176",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/how-you-can-help/kelly-sikkema-lob1ijzgnae-unsplash-2/",
+      "url": "/how-you-can-help/kelly-sikkema-lob1ijzgnae-unsplash-2/",
+      "content_url": "/how-you-can-help/kelly-sikkema-lob1ijzgnae-unsplash-2/"
+    },
+    {
+      "id": "182",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw400h500fitcrops4814fde67e11b4732dfe7ef358fce162/",
+      "url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw400h500fitcrops4814fde67e11b4732dfe7ef358fce162/",
+      "content_url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw400h500fitcrops4814fde67e11b4732dfe7ef358fce162/"
+    },
+    {
+      "id": "184",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw360h360fitcropsb26bbe34cd07207428ff39c5e02e0735/",
+      "url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw360h360fitcropsb26bbe34cd07207428ff39c5e02e0735/",
+      "content_url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw360h360fitcropsb26bbe34cd07207428ff39c5e02e0735/"
+    },
+    {
+      "id": "185",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw360h360fitcrops85ef375d45348aff959abc6f8da1fa13/",
+      "url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw360h360fitcrops85ef375d45348aff959abc6f8da1fa13/",
+      "content_url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw360h360fitcrops85ef375d45348aff959abc6f8da1fa13/"
+    },
+    {
+      "id": "186",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw360h360fitcropsf2be5ac6316b6f919bfd466dc7e74dee/",
+      "url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw360h360fitcropsf2be5ac6316b6f919bfd466dc7e74dee/",
+      "content_url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw360h360fitcropsf2be5ac6316b6f919bfd466dc7e74dee/"
+    },
+    {
+      "id": "196",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw400h300fitcropsd39baf915493f5e60d03fda99e880d93/",
+      "url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw400h300fitcropsd39baf915493f5e60d03fda99e880d93/",
+      "content_url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw400h300fitcropsd39baf915493f5e60d03fda99e880d93/"
+    },
+    {
+      "id": "197",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw400h300fitcrops29a4adfb0f2647d5acf16073db28396d/",
+      "url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw400h300fitcrops29a4adfb0f2647d5acf16073db28396d/",
+      "content_url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw400h300fitcrops29a4adfb0f2647d5acf16073db28396d/"
+    },
+    {
+      "id": "198",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw400h300fitcropsbd6eea52f308559a8ad0920e07472d1e/",
+      "url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw400h300fitcropsbd6eea52f308559a8ad0920e07472d1e/",
+      "content_url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw400h300fitcropsbd6eea52f308559a8ad0920e07472d1e/"
+    },
+    {
+      "id": "216",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/bam-logo-2-cc-edit-copy/",
+      "url": "/bam-logo-2-cc-edit-copy/",
+      "content_url": "/bam-logo-2-cc-edit-copy/"
+    },
+    {
+      "id": "217",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/cropped-bam-logo-2-cc-edit-copy-scaled-1-jpg/",
+      "url": "/cropped-bam-logo-2-cc-edit-copy-scaled-1-jpg/",
+      "content_url": "/cropped-bam-logo-2-cc-edit-copy-scaled-1-jpg/"
+    },
+    {
+      "id": "224",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/dsc_0295/",
+      "url": "/dsc_0295/",
+      "content_url": "/dsc_0295/"
+    },
+    {
+      "id": "225",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/dsc_0313/",
+      "url": "/dsc_0313/",
+      "content_url": "/dsc_0313/"
+    },
+    {
+      "id": "226",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/dsc_0231/",
+      "url": "/dsc_0231/",
+      "content_url": "/dsc_0231/"
+    },
+    {
+      "id": "227",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/dsc_0345/",
+      "url": "/dsc_0345/",
+      "content_url": "/dsc_0345/"
+    },
+    {
+      "id": "228",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/dsc_0222/",
+      "url": "/dsc_0222/",
+      "content_url": "/dsc_0222/"
+    },
+    {
+      "id": "229",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/dsc_0143/",
+      "url": "/dsc_0143/",
+      "content_url": "/dsc_0143/"
+    },
+    {
+      "id": "230",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/dsc_0102/",
+      "url": "/dsc_0102/",
+      "content_url": "/dsc_0102/"
+    },
+    {
+      "id": "231",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/dsc_0093/",
+      "url": "/dsc_0093/",
+      "content_url": "/dsc_0093/"
+    },
+    {
+      "id": "232",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/img_1652/",
+      "url": "/img_1652/",
+      "content_url": "/img_1652/"
+    },
+    {
+      "id": "233",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/dsc_0107/",
+      "url": "/dsc_0107/",
+      "content_url": "/dsc_0107/"
+    },
+    {
+      "id": "234",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/dsc_0087/",
+      "url": "/dsc_0087/",
+      "content_url": "/dsc_0087/"
+    },
+    {
+      "id": "235",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/dsc_0069/",
+      "url": "/dsc_0069/",
+      "content_url": "/dsc_0069/"
+    },
+    {
+      "id": "236",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/home/bam-logo-2-cc-edit-copy-2/",
+      "url": "/home/bam-logo-2-cc-edit-copy-2/",
+      "content_url": "/home/bam-logo-2-cc-edit-copy-2/"
+    },
+    {
+      "id": "238",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/about/dsc_0295-2/",
+      "url": "/about/dsc_0295-2/",
+      "content_url": "/about/dsc_0295-2/"
+    },
+    {
+      "id": "239",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/about/dsc_0295-3/",
+      "url": "/about/dsc_0295-3/",
+      "content_url": "/about/dsc_0295-3/"
+    },
+    {
+      "id": "240",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/activities/dsc_0102-2/",
+      "url": "/activities/dsc_0102-2/",
+      "content_url": "/activities/dsc_0102-2/"
+    },
+    {
+      "id": "241",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/how-you-can-help/dsc_0141/",
+      "url": "/how-you-can-help/dsc_0141/",
+      "content_url": "/how-you-can-help/dsc_0141/"
+    },
+    {
+      "id": "243",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/dsc_0107-2/",
+      "url": "/dsc_0107-2/",
+      "content_url": "/dsc_0107-2/"
+    },
+    {
+      "id": "254",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/cropped-bam-logo-2-cc-edit-copy-png/",
+      "url": "/cropped-bam-logo-2-cc-edit-copy-png/",
+      "content_url": "/cropped-bam-logo-2-cc-edit-copy-png/"
+    },
+    {
+      "id": "262",
+      "type": "post",
+      "original_url": "https://www.bamvt.com/bamgarden20200226/",
+      "url": "/bamgarden20200226/",
+      "content_url": "/bamgarden20200226/"
+    },
+    {
+      "id": "267",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/introduction-to-gardening-workshop/",
+      "url": "/event/introduction-to-gardening-workshop/",
+      "content_url": "/event/introduction-to-gardening-workshop/"
+    },
+    {
+      "id": "269",
+      "type": "tribe_venue",
+      "original_url": "https://www.bamvt.com/venue/269/",
+      "url": "/venue/269/",
+      "content_url": "/venue/269/"
+    },
+    {
+      "id": "270",
+      "type": "tribe_organizer",
+      "original_url": "https://www.bamvt.com/organizer/bennington-area-makers/",
+      "url": "/organizer/bennington-area-makers/",
+      "content_url": "/organizer/bennington-area-makers/"
+    },
+    {
+      "id": "271",
+      "type": "tribe_organizer",
+      "original_url": "https://www.bamvt.com/organizer/bennington-chapter-of-uvm-master-gardeners/",
+      "url": "/organizer/bennington-chapter-of-uvm-master-gardeners/",
+      "content_url": "/organizer/bennington-chapter-of-uvm-master-gardeners/"
+    },
+    {
+      "id": "285",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/introduction-to-starting-seeds/",
+      "url": "/event/introduction-to-starting-seeds/",
+      "content_url": "/event/introduction-to-starting-seeds/"
+    },
+    {
+      "id": "287",
+      "type": "tribe_venue",
+      "original_url": "https://www.bamvt.com/venue/bennington-area-makers/",
+      "url": "/venue/bennington-area-makers/",
+      "content_url": "/venue/bennington-area-makers/"
+    },
+    {
+      "id": "292",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/personal-cybersecurity/",
+      "url": "/event/personal-cybersecurity/",
+      "content_url": "/event/personal-cybersecurity/"
+    },
+    {
+      "id": "294",
+      "type": "tribe_organizer",
+      "original_url": "https://www.bamvt.com/organizer/southern-vermont-health-care/",
+      "url": "/organizer/southern-vermont-health-care/",
+      "content_url": "/organizer/southern-vermont-health-care/"
+    },
+    {
+      "id": "310",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/beginner-coding/",
+      "url": "/event/beginner-coding/",
+      "content_url": "/event/beginner-coding/"
+    },
+    {
+      "id": "311",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/event/beginner-coding/bam_coding_2020-03_fb_post/",
+      "url": "/event/beginner-coding/bam_coding_2020-03_fb_post/",
+      "content_url": "/event/beginner-coding/bam_coding_2020-03_fb_post/"
+    },
+    {
+      "id": "323",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/sewing-machines-101-troubleshooting-qa/",
+      "url": "/event/sewing-machines-101-troubleshooting-qa/",
+      "content_url": "/event/sewing-machines-101-troubleshooting-qa/"
+    },
+    {
+      "id": "325",
+      "type": "tribe_venue",
+      "original_url": "https://www.bamvt.com/venue/zoom-link-will-be-sent-upon-registration/",
+      "url": "/venue/zoom-link-will-be-sent-upon-registration/",
+      "content_url": "/venue/zoom-link-will-be-sent-upon-registration/"
+    },
+    {
+      "id": "326",
+      "type": "tribe_organizer",
+      "original_url": "https://www.bamvt.com/organizer/evergreen-alterations/",
+      "url": "/organizer/evergreen-alterations/",
+      "content_url": "/organizer/evergreen-alterations/"
+    },
+    {
+      "id": "327",
+      "type": "tribe_organizer",
+      "original_url": "https://www.bamvt.com/organizer/green-mountain-makers/",
+      "url": "/organizer/green-mountain-makers/",
+      "content_url": "/organizer/green-mountain-makers/"
+    },
+    {
+      "id": "331",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/open-shops-tour-virtual/",
+      "url": "/event/open-shops-tour-virtual/",
+      "content_url": "/event/open-shops-tour-virtual/"
+    },
+    {
+      "id": "334",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/virtual-open-shops-3d-printing/",
+      "url": "/event/virtual-open-shops-3d-printing/",
+      "content_url": "/event/virtual-open-shops-3d-printing/"
+    },
+    {
+      "id": "336",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/virtual-open-shops-gardening-and-seed-starting/",
+      "url": "/event/virtual-open-shops-gardening-and-seed-starting/",
+      "content_url": "/event/virtual-open-shops-gardening-and-seed-starting/"
+    },
+    {
+      "id": "338",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/virtual-open-shops-fermented-foods/",
+      "url": "/event/virtual-open-shops-fermented-foods/",
+      "content_url": "/event/virtual-open-shops-fermented-foods/"
+    },
+    {
+      "id": "340",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/bam-open-shops-tour-bicycle-tune-up/",
+      "url": "/event/bam-open-shops-tour-bicycle-tune-up/",
+      "content_url": "/event/bam-open-shops-tour-bicycle-tune-up/"
+    },
+    {
+      "id": "342",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/bam-open-shops-tour-woodworking-and-carpentry/",
+      "url": "/event/bam-open-shops-tour-woodworking-and-carpentry/",
+      "content_url": "/event/bam-open-shops-tour-woodworking-and-carpentry/"
+    },
+    {
+      "id": "347",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/shop-smorgasbord/",
+      "url": "/event/shop-smorgasbord/",
+      "content_url": "/event/shop-smorgasbord/"
+    },
+    {
+      "id": "350",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/open-shops-frank-perkins-sculptor-artist-mask-maker/",
+      "url": "/event/open-shops-frank-perkins-sculptor-artist-mask-maker/",
+      "content_url": "/event/open-shops-frank-perkins-sculptor-artist-mask-maker/"
+    },
+    {
+      "id": "355",
+      "type": "page",
+      "original_url": "https://www.bamvt.com/activities/firstrobotics/",
+      "url": "/activities/firstrobotics/",
+      "content_url": "/activities/firstrobotics/"
+    },
+    {
+      "id": "356",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw166h166fitcropsdb3a868412c2eda0784f29527b9fffe2/",
+      "url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw166h166fitcropsdb3a868412c2eda0784f29527b9fffe2/",
+      "content_url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw166h166fitcropsdb3a868412c2eda0784f29527b9fffe2/"
+    },
+    {
+      "id": "357",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw261h409fitcrops9a846a1c073d1278342d68956cebb645/",
+      "url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw261h409fitcrops9a846a1c073d1278342d68956cebb645/",
+      "content_url": "/ixlibrb-0-3-5q80fmjpgcropentropycstinysrgbw261h409fitcrops9a846a1c073d1278342d68956cebb645/"
+    },
+    {
+      "id": "366",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/first-robotics-tech-challenge-unboxing/",
+      "url": "/event/first-robotics-tech-challenge-unboxing/",
+      "content_url": "/event/first-robotics-tech-challenge-unboxing/"
+    },
+    {
+      "id": "368",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/event/first-robotics-tech-challenge-unboxing/bam_first_whats_inside/",
+      "url": "/event/first-robotics-tech-challenge-unboxing/bam_first_whats_inside/",
+      "content_url": "/event/first-robotics-tech-challenge-unboxing/bam_first_whats_inside/"
+    },
+    {
+      "id": "375",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/garden2021/",
+      "url": "/event/garden2021/",
+      "content_url": "/event/garden2021/"
+    },
+    {
+      "id": "377",
+      "type": "tribe_venue",
+      "original_url": "https://www.bamvt.com/venue/655-gage-st-bennington-vt-05201/",
+      "url": "/venue/655-gage-st-bennington-vt-05201/",
+      "content_url": "/venue/655-gage-st-bennington-vt-05201/"
+    },
+    {
+      "id": "380",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/event/garden2021/gardening-color/",
+      "url": "/event/garden2021/gardening-color/",
+      "content_url": "/event/garden2021/gardening-color/"
+    },
+    {
+      "id": "387",
+      "type": "attachment",
+      "original_url": "https://www.bamvt.com/event/garden2021/garden-workshop-flyerv9-1w/",
+      "url": "/event/garden2021/garden-workshop-flyerv9-1w/",
+      "content_url": "/event/garden2021/garden-workshop-flyerv9-1w/"
+    },
+    {
+      "id": "391",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/first-robotics-info-session/",
+      "url": "/event/first-robotics-info-session/",
+      "content_url": "/event/first-robotics-info-session/"
+    },
+    {
+      "id": "421",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/seed-swap-and-giveaway/",
+      "url": "/event/seed-swap-and-giveaway/",
+      "content_url": "/event/seed-swap-and-giveaway/"
+    },
+    {
+      "id": "423",
+      "type": "tribe_venue",
+      "original_url": "https://www.bamvt.com/venue/spring-center-community-room/",
+      "url": "/venue/spring-center-community-room/",
+      "content_url": "/venue/spring-center-community-room/"
+    },
+    {
+      "id": "425",
+      "type": "tribe_events",
+      "original_url": "https://www.bamvt.com/event/community-garden-celebration/",
+      "url": "/event/community-garden-celebration/",
+      "content_url": "/event/community-garden-celebration/"
+    },
+    {
+      "id": "427",
+      "type": "tribe_venue",
+      "original_url": "https://www.bamvt.com/venue/bennington-community-garden-bradford-st-coolidge-ave-bennington-vt/",
+      "url": "/venue/bennington-community-garden-bradford-st-coolidge-ave-bennington-vt/",
+      "content_url": "/venue/bennington-community-garden-bradford-st-coolidge-ave-bennington-vt/"
+    },
+    {
+      "id": "439",
+      "type": "page",
+      "original_url": "https://www.bamvt.com/donate/",
+      "url": "/donate/",
+      "content_url": "/donate/"
+    }
+  ],
+  "source_sitemap_urls": [
+    "https://www.bamvt.com/",
+    "https://www.bamvt.com/about/",
+    "https://www.bamvt.com/activities/",
+    "https://www.bamvt.com/activities/firstrobotics/",
+    "https://www.bamvt.com/attribution/",
+    "https://www.bamvt.com/author/chris/",
+    "https://www.bamvt.com/bamgarden20200226/",
+    "https://www.bamvt.com/blog/",
+    "https://www.bamvt.com/calendar/",
+    "https://www.bamvt.com/category/event/",
+    "https://www.bamvt.com/code-of-conduct/",
+    "https://www.bamvt.com/contact/",
+    "https://www.bamvt.com/donate/",
+    "https://www.bamvt.com/event/bam-open-shops-tour-bicycle-tune-up/",
+    "https://www.bamvt.com/event/bam-open-shops-tour-woodworking-and-carpentry/",
+    "https://www.bamvt.com/event/beginner-coding/",
+    "https://www.bamvt.com/event/community-garden-celebration/",
+    "https://www.bamvt.com/event/first-robotics-info-session/",
+    "https://www.bamvt.com/event/first-robotics-tech-challenge-unboxing/",
+    "https://www.bamvt.com/event/garden2021/",
+    "https://www.bamvt.com/event/introduction-to-gardening-workshop/",
+    "https://www.bamvt.com/event/introduction-to-starting-seeds/",
+    "https://www.bamvt.com/event/open-shops-frank-perkins-sculptor-artist-mask-maker/",
+    "https://www.bamvt.com/event/open-shops-tour-virtual/",
+    "https://www.bamvt.com/event/personal-cybersecurity/",
+    "https://www.bamvt.com/event/seed-swap-and-giveaway/",
+    "https://www.bamvt.com/event/sewing-machines-101-troubleshooting-qa/",
+    "https://www.bamvt.com/event/shop-smorgasbord/",
+    "https://www.bamvt.com/event/virtual-open-shops-3d-printing/",
+    "https://www.bamvt.com/event/virtual-open-shops-fermented-foods/",
+    "https://www.bamvt.com/event/virtual-open-shops-gardening-and-seed-starting/",
+    "https://www.bamvt.com/events/",
+    "https://www.bamvt.com/events/category/coding/",
+    "https://www.bamvt.com/events/category/gardening/",
+    "https://www.bamvt.com/events/category/how-to/",
+    "https://www.bamvt.com/how-you-can-help/",
+    "https://www.bamvt.com/tag/agriculture/",
+    "https://www.bamvt.com/tag/coding/",
+    "https://www.bamvt.com/tag/computing/",
+    "https://www.bamvt.com/tag/cybersecurity/",
+    "https://www.bamvt.com/tag/food/",
+    "https://www.bamvt.com/tag/gardening/",
+    "https://www.bamvt.com/tag/how-to/",
+    "https://www.bamvt.com/tag/kids/",
+    "https://www.bamvt.com/tag/multifactor/",
+    "https://www.bamvt.com/tag/password/",
+    "https://www.bamvt.com/tag/personal/",
+    "https://www.bamvt.com/tag/phishing/",
+    "https://www.bamvt.com/tag/programming/",
+    "https://www.bamvt.com/tag/puzzles/",
+    "https://www.bamvt.com/tag/ransom/",
+    "https://www.bamvt.com/tag/safe/",
+    "https://www.bamvt.com/tag/scratch/",
+    "https://www.bamvt.com/tag/security/",
+    "https://www.bamvt.com/tag/seeds/",
+    "https://www.bamvt.com/tag/starting/",
+    "https://www.bamvt.com/tag/uvm-master-gardeners/",
+    "https://www.bamvt.com/tag/virus/",
+    "https://www.bamvt.com/tag/youth/"
+  ]
+}

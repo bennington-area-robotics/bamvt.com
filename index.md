@@ -1,38 +1,44 @@
 ---
-layout: default
-title: Home
+layout: "default"
+title: "Home"
+permalink: "/"
+nav_section: "/"
 ---
 
-# What is the BAM makerspace?
+# Making things and making connections
 
-An accessible, open, and safe space for the community to explore science, technology, engineering, arts and mathematics (STEAM) skills and support entrepreneurship by making things and making connections
+Bennington Area Makers (BAM) brings people together through creative, hands-on learning in Bennington, Vermont. Our active program is **Bennington Area Robotics**.
+
+## Build with Bennington Area Robotics
+
+Middle and high school students design, build, and program robots for FIRST Tech Challenge with support from community mentors. Our teams are **18650 Cookie Clickers** and **32473 Bennington Bolts and Biscuits**.
+
+[Explore our robotics program](/activities/firstrobotics/){: .btn-gold}
+
+## Our makerspace years
+
+BAM’s earlier activities included crafts, coding, gardening, woodworking, and open shops. Explore the people, projects, and events from those years.
 
 <div class="card-grid">
   <div class="card">
-    <div class="card-body">
-      <h2>Activities</h2>
-      <p>In the coming year, we have plans for events focused on Lego Robotics, Linux Computer Building, Raspberry Pi programming, Bike Repair, Seed Starting, and other topics. In our first three months (October-December 2019), we engaged with 263 participants in 33 activities.</p>
-      <a href="{{ "/activities" | relative_url }}" class="btn">See What We Have Been Doing</a>
-    </div>
+    <img class="card-image" src="/wp-content/uploads/2020/01/82_0_400_300_DSC_0093-1024x681.jpg" alt="A group working together on a craft project" width="400" height="300" loading="lazy">
+    <div class="card-body"><h2>Past events</h2><p>Workshops, open shops, and community events from 2020–2022.</p><a class="btn" href="/events/">Explore the event archive</a></div>
   </div>
   <div class="card">
-    <div class="card-body">
-      <h2>Get Involved</h2>
-      <p>Our events are supported and inspired by affinity groups, facilitated by volunteers and enabled by donations presently, but we recognize that sustained revenue and paid instructors will eventually be needed to sustain the programs.</p>
-      <a href="{{ "/get-involved" | relative_url }}" class="btn">Learn How You Can Get Involved</a>
-    </div>
+    <img class="card-image" src="/wp-content/uploads/2020/01/DSC_0313-768x511.jpg" alt="A child and adult working together on a small project" width="768" height="511" loading="lazy">
+    <div class="card-body"><h2>Making together</h2><p>Photos of hands-on projects and community learning from our original makerspace.</p><a class="btn" href="/photos/">See the photos</a></div>
   </div>
   <div class="card">
-    <div class="card-body">
-      <h2>Our Mission</h2>
-      <p>Our key guiding principle is to enable transdisciplinary collaboration and intergenerational exchange to feed curiosity, support discovery, and encourage entrepreneurial development in the Bennington area.</p>
-      <a href="{{ "/about" | relative_url }}" class="btn">Read About Our Mission</a>
-    </div>
+    <img class="card-image" src="/wp-content/uploads/2020/01/0_579_400_300_DSC_0087-768x1155.jpg" alt="A person using tools on a project at a table" width="400" height="300" loading="lazy">
+    <div class="card-body"><h2>Our beginnings</h2><p>The vision, mission, and community connections that brought BAM together.</p><a class="btn" href="/about/">Read about BAM</a></div>
   </div>
 </div>
 
-## Connect With Us
+## Connect with us
 
-- Join the [BAM Facebook Group](https://www.facebook.com/groups/BenningtonAreaMakers/){:target="_blank"} for announcements
-- Email us at [info@bamvt.com](mailto:info@bamvt.com)
+- [Support the robotics program](/donate/)
+- Email [info@bamvt.com](mailto:info@bamvt.com)
+- Join the [BAM Facebook Group](https://www.facebook.com/groups/MakeBennington/)
 - Mail: PO Box 4332, Bennington, VT 05201
+
+[Visit the original makerspace homepage](/archive/original-home/).

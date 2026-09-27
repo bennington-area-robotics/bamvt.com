@@ -1,22 +1,24 @@
 ---
-layout: default
-title: Contact
+layout: "default"
+title: "Contact"
+permalink: "/contact/"
+wordpress_id: 56
+nav_section: "/contact/"
+redirect_from: ["/contact.html"]
 ---
 
 # Contact Us
 
-- **Email:** [info@bamvt.com](mailto:info@bamvt.com)
-- **Mail:** PO Box 4332, Bennington, VT 05201
-- **Facebook:** [Bennington Area Makers](https://www.facebook.com/groups/BenningtonAreaMakers/){:target="_blank"}
+Bennington Area Makers
 
-## Organizing Committee
+PO Box 4332, Bennington, VT 05201
 
-- James Salerno
-- Jeannie Jenkins
-- Ray Coulter
-- Kimberly Griffin
-- Chris Callahan
+info@bamvt.com
+
+[Join the Bennington Area Makers Facebook Group](https://www.facebook.com/groups/MakeBennington/)
+
+Original makerspace organizing committee (historical): James Salerno, Jeannie Jenkins, Ray Coulter, Kimberly Griffin, & Chris Callahan
 
 ## Robotics Program
 
-For robotics-specific inquiries, contact Chris Callahan at [chris.callahan@uvm.edu](mailto:chris.callahan@uvm.edu) or visit [robotics.bamvt.com](https://robotics.bamvt.com){:target="_blank"}.
+BAM’s active program is [Bennington Area Robotics](https://robotics.bamvt.com/). For robotics-specific inquiries, email [chris.callahan@uvm.edu](mailto:chris.callahan@uvm.edu).

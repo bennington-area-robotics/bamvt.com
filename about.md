@@ -1,9 +1,17 @@
 ---
-layout: default
-title: About
+layout: "default"
+title: "About"
+permalink: "/about/"
+wordpress_id: 2
+nav_section: "/about/"
+redirect_from: ["/about.html"]
 ---
 
 # About BAM
+
+<div class="highlight">BAM’s active program is <a href="/activities/firstrobotics/">Bennington Area Robotics</a>. The makerspace information below is preserved from our earlier years.</div>
+
+<figure class="page-image"><a href="/wp-content/uploads/2020/01/DSC_0295-2.jpg"><img src="/wp-content/uploads/2020/01/DSC_0295-2.jpg" alt="Hands assembling a small metal structure" width="1500" height="400" loading="lazy"></a></figure>
 
 ## Vision
 
@@ -13,11 +21,9 @@ BAM's vision is to be an accessible, open, and safe space for the community to e
 
 BAM's mission is to provide opportunities for connection to the entire community via intellectually and physically creative activities.
 
-## Our "Why"
+## Our “Why”
 
-Stakeholders in the Bennington area have expressed a strong need for and support of a place and organization that feeds curiosity, supports discovery, and encourages entrepreneurial development around "making" things.
-
-The community is also in need of opportunities for intergenerational connection and diverse transdisciplinary collaboration in support of social and economic impact.
+Stakeholders in the Bennington area have expressed a strong need for and support of a place and organization that feeds curiosity, supports discovery, and encourages entrepreneurial development around "making" things. The community is also in need of opportunities for intergenerational connection and diverse transdisciplinary collaboration in support of social and economic impact.
 
 ## Background
 
@@ -29,11 +35,4 @@ BAM coordinates and collaborates with several other local organizations includin
 
 ## Organizing Committee
 
-BAM was formalized in 2019 through the efforts of a small organizing committee that includes James Salerno, Jeannie Jenkins, Ray Coulter, Kimberly Griffin, and Chris Callahan.
-
-Our activities are enabled by the organizational support of the Bennington County Regional Commission.
-
-## Contact
-
-- **Address:** Bennington Area Makers, PO Box 4332, Bennington, VT 05201
-- **Email:** [info@BAMVT.com](mailto:info@BAMVT.com)
+BAM was formalized in 2019 through the efforts of a small organizing committee that includes James Salerno, Jeannie Jenkins, Ray Coulter, Kimberly Griffin, and Chris Callahan. Our activities are enabled by the organizational support of the [Bennington County Regional Commission](http://www.bcrcvt.org/)

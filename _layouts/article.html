@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<p class="eyebrow"><a href="{{ '/blog/' | relative_url }}">From the archive</a></p>
+<h1>{{ page.title | escape }}</h1>
+<p class="post-date"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: "%B %-d, %Y" }}</time></p>
+<div class="highlight">This article is from {{ page.date | date: "%Y" }}. Event invitations, addresses, and registration details are preserved as historical information.</div>
+<div class="article-body">{{ content }}</div>
+<p class="archive-back"><a href="{{ '/blog/' | relative_url }}">Back to the blog archive</a></p>

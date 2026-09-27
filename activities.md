@@ -1,33 +1,45 @@
 ---
-layout: default
-title: Activities
+layout: "default"
+title: "Activities"
+permalink: "/activities/"
+wordpress_id: 36
+nav_section: "/activities/"
+redirect_from: ["/activities.html"]
 ---
 
 # Activities
 
-BAM operates as a makerspace providing spaces, equipment, and supplies to enable a variety of activities using an agile framework responsive to community needs.
+BAM’s active program is [Bennington Area Robotics](/activities/firstrobotics/), where middle and high school students design, build, and program robots.
 
-## Activity Areas
+## Earlier makerspace activities
 
-- **Computer Programming** — Coding instruction and projects
-- **Microcomputers** — Arduino and Raspberry Pi development
-- **Basic Electronics** — Circuit work and projects
-- **Robotics** — Including [FIRST Robotics](https://robotics.bamvt.com){:target="_blank"} programs (FTC)
-- **Textile Crafting** — Sewing and fabric-based projects
-- **Rapid Prototyping** — 3D printing capabilities
-- **Carpentry & Woodworking** — Basic wood fabrication
-- **Metal Fabrication** — Cutting, machining, and assembly
+The description below records BAM’s original makerspace activities. These are historical offerings, not a current workshop schedule.
 
-## How Activities Are Organized
+<figure class="page-image"><a href="/wp-content/uploads/2020/01/DSC_0102-1.jpg"><img src="/wp-content/uploads/2020/01/DSC_0102-1.jpg" alt="A tin-can lantern glowing in the snow" width="1500" height="400" loading="lazy"></a></figure>
 
-Activities are organized through affinity groups based on member interests. These groups sponsor workshops, presentations, and community projects with volunteer coordination and expertise sharing.
+BAM provide spaces, equipment and supplies to enable a variety of activities using an agile framework that is responsive to community interests and needs.
 
-## FIRST Robotics
+The initial focus activities of the makerspace will be:
 
-BAM partners with UVM 4-H and FIRST Robotics to provide hands-on problem solving, robot building, communication, design, and program coding to our community. We run two programs:
+- Computer programming (Coding)
 
-- **FIRST Tech Challenge (FTC)** — for middle and high school students
+- Microcomputers (Arduino, RasberryPi)
 
-No experience in coding or robotics is needed — we are in this together to learn together.
+- Basic electronics (Circuits)
 
-For more information about our robotics teams, visit [robotics.bamvt.com](https://robotics.bamvt.com){:target="_blank"} or contact Chris Callahan at [chris.callahan@uvm.edu](mailto:chris.callahan@uvm.edu).
+- Robotics
+
+- Textile crafting (Sewing)
+
+- Rapid Prototyping (3D printing)
+
+- Basic carpentry and woodworking
+
+- Basic metal fabrication (Cutting, machining, assembly)
+
+These activities are supported by affinity groups that have emerged based on initial themes and community interest. These affinity groups sponsor events with volunteer support, coordination and knowledge. Events take the form of workshops, presentations and community projects.
+
+## From the archive
+
+- [Historical workshops and events](/events/)
+- [Photos from the makerspace](/photos/)
