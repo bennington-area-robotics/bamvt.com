@@ -15,12 +15,10 @@ Contact [info@bamvt.com](mailto:info@bamvt.com) to get involved.
 
 ## Original makerspace notice
 
-The notice below describes earlier makerspace activities. Its weekly meeting details and email address are retained as historical information; contact us for current arrangements before visiting.
+The notice below describes earlier makerspace activities. Its email address is retained as historical information.
 
 <figure class="page-image"><a href="/wp-content/uploads/2020/01/DSC_0141.jpg"><img src="/wp-content/uploads/2020/01/DSC_0141.jpg" alt="A group gathered outdoors at night" width="1500" height="400" loading="lazy"></a></figure>
 
 We would love to hear your ideas for programs and we welcome donations of time, expertise, supplies, and tools. We also welcome financial donations of any size.
 
 Please send us an email at **info@bamvt.org.**
-
-Or drop by one of our weekly community meetings on Thursdays at 6 PM at 239 Main St, Bennington, VT.

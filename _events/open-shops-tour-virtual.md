@@ -12,4 +12,4 @@ event_currency: ""
 organizer_ids: []
 ---
 
-Well, we can't connect for our regular Thursday Open House and Community Meetings. So, let's take it on the road. Virtually. Join us Thursday 4/23 for a virtual Open Shops Tour. Meet other makers in their natural environment, their own maker spaces in their homes and shops. Have a cool project or a favorite tool you want to share? Register here: https://forms.gle/FYEWShSo4pdPT36t9. A web meeting link will be sent ahead of time.
+Join us Thursday 4/23 for a virtual Open Shops Tour. Meet other makers in their natural environment, their own maker spaces in their homes and shops. Have a cool project or a favorite tool you want to share? Register here: https://forms.gle/FYEWShSo4pdPT36t9. A web meeting link will be sent ahead of time.

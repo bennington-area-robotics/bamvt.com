@@ -10,10 +10,6 @@ nav_section: "/events/"
 
 For the current robotics schedule, visit [Bennington Area Robotics](https://robotics.bamvt.com/).
 
-## Community announcements
-
-View our [upcoming events in our Facebook Group](https://www.facebook.com/groups/MakeBennington/events/).
-
 ## Past workshops and events
 
 [Browse the event archive](/events/) for BAM workshops and community events from 2020–2022.

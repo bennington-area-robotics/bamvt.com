@@ -12,8 +12,6 @@ event_currency: ""
 organizer_ids: []
 ---
 
-Join Bennington Area Makers on Thursday evenings at 6:00 pm to learn about what your neighbors are making and share projects that you are working on.
-
 This session will focus on woodworking and carpentry. Details to follow.
 
 This is a time to informally share what you are doing, ask questions, and get new ideas for projects.

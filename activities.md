@@ -37,7 +37,7 @@ The initial focus activities of the makerspace will be:
 
 - Basic metal fabrication (Cutting, machining, assembly)
 
-These activities are supported by affinity groups that have emerged based on initial themes and community interest. These affinity groups sponsor events with volunteer support, coordination and knowledge. Events take the form of workshops, presentations and community projects.
+These activities were supported by affinity groups that emerged based on initial themes and community interest. These affinity groups sponsored events with volunteer support, coordination and knowledge. Events took the form of workshops, presentations and community projects.
 
 ## From the archive
 

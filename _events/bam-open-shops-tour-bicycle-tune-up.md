@@ -12,8 +12,6 @@ event_currency: ""
 organizer_ids: []
 ---
 
-Join Bennington Area Makers on Thursday evenings at 6:00 pm to learn about what your neighbors are making and share projects that you are working on.
-
 Tired of being cooped up? Would you rather be out rolling on two tires? Join us for a virtual bike tune up session. Bruce Lierman from The Cycling Academy will share info on bicycle selection and fit and also how to complete a basic safety check on your new or existing bike. Come with your questions and share your own experiences with different types of bikes.
 
 This is a time to informally share what you are doing, ask questions, and get new ideas for projects.
