@@ -35,7 +35,7 @@ BAM coordinates and collaborates with several other local organizations includin
 
 ## Board of Directors
 
-As of August 10, 2026, BAM’s board of directors includes:
+BAM’s board of directors includes:
 
 - Ben Schwartz
 - Chris Callahan
