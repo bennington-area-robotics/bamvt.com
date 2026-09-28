@@ -21,4 +21,4 @@ Original makerspace organizing committee (historical): James Salerno, Jeannie Je
 
 ## Robotics Program
 
-BAM’s active program is [Bennington Area Robotics](https://robotics.bamvt.com/). For robotics-specific inquiries, email [chris.callahan@uvm.edu](mailto:chris.callahan@uvm.edu).
+BAM’s active program is [Bennington Area Robotics](https://robotics.bamvt.com/). For robotics-specific inquiries, email [info@bamvt.com](mailto:info@bamvt.com).
