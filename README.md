@@ -13,6 +13,35 @@ Open http://localhost:4002. This uses a separate port from the robotics site on 
 
 Run `bundle exec jekyll build` to check changes before publishing.
 
+## Hosting and deployment
+
+GitHub Pages publishes this repository from the root of the `master` branch.
+Merge site changes into `master` and check the Pages deployment before verifying
+production. Run `bundle exec jekyll build` before publishing.
+
+- The canonical address is **https://www.bamvt.com**. GitHub Pages redirects
+  `bamvt.com` to `www.bamvt.com`, with HTTPS enforcement enabled.
+- Cloudflare manages DNS. The apex uses GitHub Pages' four published A records;
+  `www` is a CNAME to `bennington-area-robotics.github.io`. Both use **DNS only**.
+- Keep the production `CNAME` file set to `www.bamvt.com` and `_config.yml`'s
+  `url` set to `https://www.bamvt.com`. Changing the custom domain in GitHub's
+  Pages settings can commit a `CNAME` change directly to `master`; sync that
+  change locally before publishing further changes.
+- Cloudflare Redirect Rules send `test.bamvt.com`, `bamvt.net`, `bamvt.org`,
+  and configured subdomains of the latter two to `https://www.bamvt.com`,
+  preserving paths and query strings. Their source DNS records must remain
+  **Proxied** for the rules to run. Manage these redirects in Cloudflare.
+- Shared media is served from **https://assets.bamvt.com**, backed by Cloudflare
+  R2. The homepage robotics photo uses this host. Migrated WordPress media
+  remains in this repository under `wp-content/uploads/` to preserve old URLs.
+
+After a deployment, check HTTPS, the apex redirect, navigation, and images.
+Account administration, migration and recovery notes, and remaining WordPress
+archive work are maintained separately in the private working repository.
+
+References: [GitHub Pages custom domains](https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site)
+and [Cloudflare Redirect Rules](https://developers.cloudflare.com/rules/url-forwarding/single-redirects/create-dashboard/).
+
 ## Layout and theme
 
 `_layouts/default.html` adapts the sidebar, reading area, mobile menu, and footer navigation from the sister robotics site. Page content lives in the root Markdown files.
