@@ -15,6 +15,8 @@ Bennington Area Makers (BAM) brings people together through creative, hands-on l
 
 Middle and high school students design, build, and program robots for FIRST Tech Challenge with support from community mentors. Our teams are **18650 Cookie Clickers** and **32473 Bennington Bolts and Biscuits**.
 
+We meet students where they are. No prior coding or robotics experience is needed.
+
 [Explore our robotics program](https://robotics.bamvt.com){: .btn-gold}
 
 ## Our makerspace years
