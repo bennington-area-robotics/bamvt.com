@@ -7,15 +7,25 @@ nav_section: "/"
 
 # Making things and making connections
 
-Bennington Area Makers (BAM) brings people together through creative, hands-on learning in Bennington, Vermont. Our active program is **Bennington Area Robotics**.
+Bennington Area Makers (BAM) brings people together through creative, hands-on learning in southern Vermont. Our active programs are **Bennington Area Robotics** and **Manchester Machine Makers**.
 
-## Build with Bennington Area Robotics
+## Build with youth robotics
 
 <img src="https://assets.bamvt.com/robotics/state-championship-2026/2026_FTC-192.jpg?v=1" alt="Bennington Area Robotics students operating their robots at the Vermont FIRST Tech Challenge state championship" width="1600" height="1067">
 
-Middle and high school students design, build, and program robots for FIRST Tech Challenge with support from community mentors. Our teams are **18650 Cookie Clickers** and **32473 Bennington Bolts and Biscuits**.
+Middle and high school students design, build, and program robots for FIRST Tech Challenge with support from community mentors.
 
-<a class="btn-gold" href="https://robotics.bamvt.com" target="_blank" rel="noopener noreferrer" aria-label="Explore our robotics program (opens in a new tab)" title="Opens in a new tab">Explore our robotics program <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" style="vertical-align: -0.125em; margin-left: 0.25em;"><path d="M15 3h6v6M10 14 21 3M21 14v7H3V3h7" /></svg></a>
+<div class="robotics-team">
+  <img class="robotics-team-icon" src="/assets/images/bennington-area-robotics.png" alt="Bennington Area Robotics logo" width="180" height="180" loading="lazy">
+  <p>Bennington teams include <strong>18650 Cookie Clickers</strong> and <strong>32473 Bennington Bolts and Biscuits</strong>.</p>
+  <a class="btn-gold" href="https://robotics.bamvt.com" target="_blank" rel="noopener noreferrer" aria-label="Explore Bennington Area Robotics (opens in a new tab)" title="Opens in a new tab">Explore Bennington Area Robotics <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" style="vertical-align: -0.125em; margin-left: 0.25em;"><path d="M15 3h6v6M10 14 21 3M21 14v7H3V3h7" /></svg></a>
+</div>
+
+<div class="robotics-team">
+  <img class="robotics-team-icon" src="/assets/images/manchester-machine-makers.png" alt="Manchester Machine Makers logo" width="300" height="210" loading="lazy">
+  <p>Manchester is home to <strong>16221 Manchester Machine Makers</strong>.</p>
+  <a class="btn-gold" href="https://manchestermachinemakers.org/" target="_blank" rel="noopener noreferrer" aria-label="Explore Manchester Machine Makers (opens in a new tab)" title="Opens in a new tab">Explore Manchester Machine Makers <svg xmlns="http://www.w3.org/2000/svg" width="1em" height="1em" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" focusable="false" style="vertical-align: -0.125em; margin-left: 0.25em;"><path d="M15 3h6v6M10 14 21 3M21 14v7H3V3h7" /></svg></a>
+</div>
 
 ## Our makerspace years
 

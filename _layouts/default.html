@@ -132,6 +132,24 @@
       margin: 1.5rem 0;
       border-radius: 0 4px 4px 0;
     }
+    .robotics-team {
+      display: grid;
+      grid-template-columns: 5rem minmax(0, 1fr);
+      grid-template-areas: "icon description" "icon action";
+      align-items: start;
+      gap: 0.75rem 1rem;
+      max-width: 75ch;
+      margin: 1.5rem 0;
+    }
+    .robotics-team + .robotics-team { margin-top: 2rem; }
+    .robotics-team-icon { grid-area: icon; width: 5rem; height: 5rem; object-fit: contain; }
+    .robotics-team p { grid-area: description; margin: 0; }
+    .robotics-team .btn-gold { grid-area: action; justify-self: start; max-width: 100%; }
+    @media (max-width: 40rem) {
+      .robotics-team { grid-template-areas: "icon description" "action action"; align-items: center; }
+      .robotics-team + .robotics-team { margin-top: 2.5rem; }
+      .robotics-team .btn-gold { justify-self: stretch; text-align: center; }
+    }
     .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(min(100%, 15rem), 1fr)); gap: 1.25rem; margin: 2rem 0; }
     .card { background: white; border: 1px solid var(--border); border-top: 4px solid var(--yellow); border-radius: 4px; display: flex; flex-direction: column; }
     .card-body { padding: 1.25rem; display: flex; flex-direction: column; flex: 1; min-width: 0; }
