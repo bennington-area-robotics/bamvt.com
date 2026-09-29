@@ -42,5 +42,3 @@ BAM’s earlier activities included crafts, coding, gardening, woodworking, and 
 - Email [info@bamvt.com](mailto:info@bamvt.com)
 - Join the [BAM Facebook Group](https://www.facebook.com/groups/MakeBennington/)
 - Mail: PO Box 4332, Bennington, VT 05201
-
-[Visit the original makerspace homepage](/archive/original-home/).
