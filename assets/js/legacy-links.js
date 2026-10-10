@@ -2,6 +2,7 @@
 layout: null
 ---
 // WordPress ID links have no server-side routing on GitHub Pages.
+// The ID map contains retained pages and direct media files, never removed wrappers.
 (function () {
   if (location.pathname !== '/' && location.pathname !== '/index.html') return;
   var ids = {{ site.data.legacy_ids | jsonify }};

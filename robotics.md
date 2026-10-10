@@ -8,19 +8,26 @@ nav_section: "/activities/firstrobotics/"
 
 # FIRST Robotics
 
+BAM sponsors three FIRST Tech Challenge teams in southern Vermont through
+Bennington Area Robotics and Manchester Machine Makers. Visit each program’s
+website for team information and ways to participate.
+
 ## Bennington Area Robotics
 
-[Bennington Area Robotics (BAM Robotics)](https://robotics.bamvt.com/) is the youth robotics program of Bennington Area Makers in Bennington, Vermont. Middle and high school students design, build, and program robots with support from volunteer mentors in our community.
+Bennington is home to **18650 Cookie Clickers** and **32473 Bennington Bolts and
+Biscuits**. The Bennington Area Robotics website has their meeting schedule,
+team news, and joining information.
 
-Our two teams compete in [FIRST Tech Challenge (FTC)](https://www.firstinspires.org/programs/ftc/):
+<a class="btn" href="https://robotics.bamvt.com/">Visit Bennington Area Robotics</a>
 
-- **Team 18650: Cookie Clickers**
+## Manchester Machine Makers
 
-- **Team 32473: Bennington Bolts and Biscuits**
+**16221 Manchester Machine Makers** is BAM’s team in Manchester. Visit the team’s
+website to learn about its activities and get involved.
 
-Students work together on mechanical design, fabrication, programming, and competition strategy. No prior coding or robotics experience is needed.
+<a class="btn" href="https://manchestermachinemakers.org/">Visit Manchester Machine Makers</a>
 
-**[Visit the Bennington Area Robotics website](https://robotics.bamvt.com/)** for meeting times, membership information, team news, and upcoming events. To ask about joining or volunteering, email [info@bamvt.com](mailto:info@bamvt.com).
+For questions about BAM or volunteering, email [info@bamvt.com](mailto:info@bamvt.com).
 
 ## Watch the 2026–2027 FTC Game: BIOBUZZ
 

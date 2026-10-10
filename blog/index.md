@@ -11,4 +11,16 @@ archive_ids: ["262"]
 
 Writing from BAM’s makerspace years. For workshop announcements, browse [past events](/events/).
 
+## Gardening with the community
+
+The February 2020 gardening announcement describes a workshop with the Bennington
+Chapter of UVM Extension Master Gardeners. Participants could plan a vegetable
+garden and explore site selection, soil preparation, companion planting, and crops
+suited to the region. The article also explains the community roles of BAM and the
+Master Gardeners.
+
+The original announcement is preserved below. Its dates and registration details
+are historical; current robotics information is available from
+[Bennington Area Robotics](https://robotics.bamvt.com/).
+
 {% include archive-list.html ids=page.archive_ids %}
