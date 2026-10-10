@@ -18,3 +18,10 @@ exclude:
 collections:
   events:
     output: true
+
+# Preserve downloadable documents without submitting files lacking canonical metadata.
+defaults:
+  - scope:
+      path: "**/*.pdf"
+    values:
+      sitemap: false

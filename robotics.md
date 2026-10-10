@@ -10,17 +10,11 @@ nav_section: "/activities/firstrobotics/"
 
 ## Bennington Area Robotics
 
-[Bennington Area Robotics (BAM Robotics)](https://robotics.bamvt.com/) is the youth robotics program of Bennington Area Makers in Bennington, Vermont. Middle and high school students design, build, and program robots with support from volunteer mentors in our community.
+BAM’s youth robotics program brings local students together to build robots for FIRST Tech Challenge. Bennington Area Robotics maintains the program’s team information, meeting schedule, and ways to participate.
 
-Our two teams compete in [FIRST Tech Challenge (FTC)](https://www.firstinspires.org/programs/ftc/):
+<a class="btn" href="https://robotics.bamvt.com/">Visit Bennington Area Robotics</a>
 
-- **Team 18650: Cookie Clickers**
-
-- **Team 32473: Bennington Bolts and Biscuits**
-
-Students work together on mechanical design, fabrication, programming, and competition strategy. No prior coding or robotics experience is needed.
-
-**[Visit the Bennington Area Robotics website](https://robotics.bamvt.com/)** for meeting times, membership information, team news, and upcoming events. To ask about joining or volunteering, email [info@bamvt.com](mailto:info@bamvt.com).
+For joining or volunteering questions, email [info@bamvt.com](mailto:info@bamvt.com).
 
 ## Watch the 2026–2027 FTC Game: BIOBUZZ
 
