@@ -1,4 +1,5 @@
 ---
+description: "Archived beginner coding workshop for ages 7 and up, featuring Scratch and Makey Makey. The March 2020 event was postponed due to COVID-19."
 layout: "event"
 title: "Beginner Coding"
 permalink: "/event/beginner-coding/"

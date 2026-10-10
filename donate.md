@@ -1,4 +1,5 @@
 ---
+description: "Support BAM’s volunteer-run youth robotics programs. Donate through PayPal or by check, or learn how to volunteer."
 layout: "default"
 title: "Donate"
 permalink: "/donate/"

@@ -1,4 +1,5 @@
 ---
+description: "Explore BAM’s makerspace writing, including the 2020 gardening workshop announcement and its community partnership with UVM Master Gardeners."
 layout: "default"
 title: "Blog Archive"
 permalink: "/blog/"

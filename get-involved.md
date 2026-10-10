@@ -1,4 +1,5 @@
 ---
+description: "Get involved with BAM through volunteering, donations, and community support. Find current contact information and our original makerspace notice."
 layout: "default"
 title: "Get Involved"
 permalink: "/get-involved/"

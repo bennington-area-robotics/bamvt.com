@@ -24,6 +24,7 @@
   <meta name="twitter:description" content="{{ page_desc | escape }}">
   {% if page.og_image %}<meta name="twitter:image" content="{{ page.og_image | absolute_url }}">{% endif %}
   <meta name="format-detection" content="telephone=no">
+  {% if page.url == '/' %}{% include organization-schema.html %}{% endif %}
   <link rel="icon" type="image/png" href="{{ "/assets/images/bam-logo-photo-square-512x512.png" | relative_url }}">
   <link rel="apple-touch-icon" href="{{ "/assets/images/bam-logo-photo-square-512x512.png" | relative_url }}">
   <style>

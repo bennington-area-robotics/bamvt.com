@@ -1,4 +1,5 @@
 ---
+description: "Archived announcement for BAM’s May 2020 virtual open shop on woodworking and carpentry, with project sharing and questions."
 layout: "event"
 title: "BAM Open Shops Tour - Woodworking and Carpentry"
 permalink: "/event/bam-open-shops-tour-woodworking-and-carpentry/"

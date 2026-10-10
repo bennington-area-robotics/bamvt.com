@@ -1,4 +1,5 @@
 ---
+description: "Read the February 2020 announcement for BAM’s vegetable gardening workshop, including planned topics and background on BAM and the Master Gardeners."
 layout: "article"
 title: "2/26/20 - Introduction to Gardening Workshop"
 permalink: "/bamgarden20200226/"

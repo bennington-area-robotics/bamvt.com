@@ -1,4 +1,5 @@
 ---
+description: "Archived June 2020 virtual project-sharing session covering coding, electronics, woodworking, welding, jewelry, art, and music."
 layout: "event"
 title: "Shop Smorgasbord"
 permalink: "/event/shop-smorgasbord/"

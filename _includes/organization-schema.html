@@ -1,0 +1,33 @@
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "NGO",
+  "@id": {{ '/#organization' | absolute_url | jsonify }},
+  "name": "The Bennington Area Makers, Inc.",
+  "alternateName": "Bennington Area Makers",
+  "nonprofitStatus": "https://schema.org/Nonprofit501c3",
+  "url": {{ '/' | absolute_url | jsonify }},
+  "email": "info@bamvt.com",
+  "logo": {{ '/assets/images/bam-logo-photo-square-512x512.png' | absolute_url | jsonify }},
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Bennington",
+    "addressRegion": "VT",
+    "postalCode": "05201",
+    "addressCountry": "US"
+  },
+  "subOrganization": [
+    {
+      "@type": "Organization",
+      "name": "Bennington Area Robotics",
+      "url": "https://robotics.bamvt.com/"
+    },
+    {
+      "@type": "Organization",
+      "name": "Manchester Machine Makers",
+      "url": "https://manchestermachinemakers.org/"
+    }
+  ],
+  "sameAs": ["https://www.facebook.com/groups/MakeBennington/"]
+}
+</script>

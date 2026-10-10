@@ -1,4 +1,5 @@
 ---
+description: "Archived workshop on phishing, passwords, malware, and online safety with Geoff Mazanec. The March 2020 event was postponed due to COVID-19."
 layout: "event"
 title: "Personal Cybersecurity"
 permalink: "/event/personal-cybersecurity/"

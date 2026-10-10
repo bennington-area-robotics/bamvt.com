@@ -1,4 +1,5 @@
 ---
+description: "Archived April 2020 sewing machine Q&A on threading, tension, bobbins, and face-mask patterns with Meridy Capella and local mask makers."
 layout: "event"
 title: "Sewing Machines 101 - Troubleshooting Q&A"
 permalink: "/event/sewing-machines-101-troubleshooting-qa/"
