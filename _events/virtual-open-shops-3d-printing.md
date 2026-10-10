@@ -1,4 +1,5 @@
 ---
+description: "Archived April 2020 virtual open shop featuring 3D printing projects from Hale Mountain Research, with questions and project sharing."
 layout: "event"
 title: "Virtual Open Shops - 3D Printing"
 permalink: "/event/virtual-open-shops-3d-printing/"

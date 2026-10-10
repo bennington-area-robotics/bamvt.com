@@ -1,4 +1,5 @@
 ---
+description: "Archived seed-starting workshop on light, heat, watering, and indoor growing racks. The April 2020 event was cancelled due to COVID-19."
 layout: "event"
 title: "Introduction to Starting Seeds"
 permalink: "/event/introduction-to-starting-seeds/"

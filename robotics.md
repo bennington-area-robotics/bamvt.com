@@ -1,4 +1,5 @@
 ---
+description: "Meet BAM’s three FIRST Tech Challenge teams in Bennington and Manchester, find their program websites, and watch the BIOBUZZ game introduction."
 layout: "default"
 title: "FIRST Robotics"
 permalink: "/activities/firstrobotics/"

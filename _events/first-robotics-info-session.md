@@ -1,4 +1,5 @@
 ---
+description: "Archived July 2021 BAM robotics information session, featuring a returning team’s robot and an introduction to FIRST Tech Challenge."
 layout: "event"
 title: "First Robotics Info Session"
 permalink: "/event/first-robotics-info-session/"

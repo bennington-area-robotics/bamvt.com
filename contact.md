@@ -1,4 +1,5 @@
 ---
+description: "Contact Bennington Area Makers at info@bamvt.com, find our Bennington mailing address, or connect through the BAM Facebook group."
 layout: "default"
 title: "Contact"
 permalink: "/contact/"

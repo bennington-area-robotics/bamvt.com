@@ -1,4 +1,5 @@
 ---
+description: "Find the current Bennington robotics schedule and browse BAM’s archive of workshops and community events from 2020–2022."
 sitemap: false
 layout: "default"
 title: "Calendar"

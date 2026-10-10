@@ -77,3 +77,20 @@ PDF downloads remain linked and available, but `_config.yml` excludes them from
 the sitemap because static downloads have no self-referencing canonical metadata.
 Do not recreate attachment or taxonomy wrappers, add `noindex` to retained pages,
 or block removed URLs in `robots.txt`; crawlers need to see their 404 responses.
+
+## Search metadata
+
+Every content page, including archived events and the 404 page, has a unique
+`description` of at most 155 characters. The layout uses it for the meta,
+Open Graph, and Twitter descriptions. The homepage sets a shorter `seo_title`.
+
+The homepage alone includes `_includes/organization-schema.html`, describing BAM
+as Schema.org `NGO` with `Nonprofit501c3` status. `NonprofitOrganization` is not a
+Schema.org type. The two robotics programs are suborganizations; `sameAs` contains
+BAM's own Facebook group, not the teams' social profiles.
+
+The local `sitemap.xml` overrides jekyll-sitemap's default template. It emits
+`lastmod` only for an explicit `last_modified_at` that records a real content
+change; absent that evidence, it omits the date. Do not fall back to Jekyll's
+collection `date`, file modification times, or build time. Static downloads have
+no lastmod. Existing sitemap exclusions remain in force.

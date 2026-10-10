@@ -1,4 +1,5 @@
 ---
+description: "Details of BAM’s February 26, 2020 vegetable gardening workshop with UVM Master Gardeners, covering garden layout, soil, crops, and regional varieties."
 layout: "event"
 title: "Introduction to Gardening Workshop"
 permalink: "/event/introduction-to-gardening-workshop/"

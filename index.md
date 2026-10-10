@@ -1,6 +1,8 @@
 ---
+description: "Explore youth robotics in Bennington and Manchester, Vermont, plus community making, past workshops, and ways to support Bennington Area Makers."
 layout: "default"
 title: "Home"
+seo_title: "Bennington Area Makers | Youth Robotics & Making in VT"
 permalink: "/"
 nav_section: "/"
 ---

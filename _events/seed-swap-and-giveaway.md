@@ -1,4 +1,5 @@
 ---
+description: "Archived April 2022 seed swap in Bennington, with a seed-starting presentation, free seeds, and donations of seedling trays and nursery pots."
 layout: "event"
 title: "Seed Swap and Giveaway"
 permalink: "/event/seed-swap-and-giveaway/"

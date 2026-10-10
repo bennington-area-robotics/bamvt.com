@@ -1,4 +1,5 @@
 ---
+description: "Archived May 2022 community garden celebration with plant giveaways, composting, beekeeping, and bee-bot building activities in Bennington."
 layout: "event"
 title: "Community Garden Celebration"
 permalink: "/event/community-garden-celebration/"

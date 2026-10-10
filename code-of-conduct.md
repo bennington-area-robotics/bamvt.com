@@ -1,4 +1,5 @@
 ---
+description: "Read BAM’s original makerspace conduct agreement for safe, collaborative work, with a link to the current robotics code of conduct."
 layout: "default"
 title: "Code of Conduct"
 permalink: "/code-of-conduct/"

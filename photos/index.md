@@ -1,4 +1,5 @@
 ---
+description: "Browse photos of hands-on projects and gatherings from BAM’s early makerspace years, with links to download the original images."
 layout: "default"
 title: "Makerspace Photos"
 permalink: "/photos/"

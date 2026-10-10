@@ -1,4 +1,5 @@
 ---
+description: "Learn about BAM’s mission, makerspace beginnings, community partnerships, board of directors, and founding organizers in Bennington, Vermont."
 layout: "default"
 title: "About"
 permalink: "/about/"

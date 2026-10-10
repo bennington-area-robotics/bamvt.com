@@ -1,4 +1,5 @@
 ---
+description: "Archived May 2020 virtual discussion of starting seeds and preparing gardens for planting, with questions and shared project ideas."
 layout: "event"
 title: "Virtual Open Shops - Gardening and Seed Starting"
 permalink: "/event/virtual-open-shops-gardening-and-seed-starting/"

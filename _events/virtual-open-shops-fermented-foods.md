@@ -1,4 +1,5 @@
 ---
+description: "Archived May 2020 virtual open shop on fermented foods, sharing experiences with living ingredients, jars, bottles, and crocks."
 layout: "event"
 title: "Virtual Open Shops - Fermented Foods"
 permalink: "/event/virtual-open-shops-fermented-foods/"

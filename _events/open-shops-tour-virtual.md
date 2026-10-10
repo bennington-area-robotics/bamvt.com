@@ -1,4 +1,5 @@
 ---
+description: "Archived April 2020 virtual tour of makers’ home workshops, featuring favorite tools, current projects, and opportunities to share ideas."
 layout: "event"
 title: "Open Shops Tour - Virtual"
 permalink: "/event/open-shops-tour-virtual/"

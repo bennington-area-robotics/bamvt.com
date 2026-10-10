@@ -1,4 +1,5 @@
 ---
+description: "Explore BAM’s robotics program and earlier makerspace activities, from coding and electronics to sewing, woodworking, and 3D printing."
 layout: "default"
 title: "Activities"
 permalink: "/activities/"
